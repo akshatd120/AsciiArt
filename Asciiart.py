@@ -6,8 +6,8 @@ ASCII_CHARS = [" ",".",":", "░", "▒", "▓","█"]
 
 ASCII_CHARS_INV = ["█","▓","▒","░",":","."," "]
 def main():
-    img = Image.open(input("Enter complete file name: "))
-    mode = input("Enter Mode (0,1): ")
+    img = Image.open(input("Enter picture's file location: "))
+    mode = input("Enter Mode (0 = Dark to White, 1 = White to Dark): ")
     pix = img.load()
     for j in range(0,img.height):
         for i in range(0,img.width):
