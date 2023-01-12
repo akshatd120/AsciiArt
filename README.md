@@ -2,7 +2,7 @@
 This was a Coding Challenge - (https://www.youtube.com/watch?v=55iwMYv8tGI) and this is my python implementation of it.   
 Converts Picture into text which can be copy-pasted anywhere.     
 
-**NOTE:***  Use 64x64 images more than this and it wont be able to fit that many pixels in 1 line*     
+**NOTE:**  Use 64x64 images more than this and it wont be able to fit that many pixels in 1 line*     
 
 **Dependencies:**                                           
   *1.PIL*                             
