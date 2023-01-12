@@ -1,4 +1,5 @@
 # AsciiArt
+This was a Coding Challenge - (https://www.youtube.com/watch?v=55iwMYv8tGI) and this is my python implementation of it.
 Converts Picture into text which can be copy-pasted anywhere                          
 
 **Dependencies:**                                           
